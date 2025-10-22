@@ -1,0 +1,16 @@
+# Virtual environment
+etl_exam_env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Data files
+data/*.csv
+transformed/*.csv
+
+# System files
+.DS_Store
