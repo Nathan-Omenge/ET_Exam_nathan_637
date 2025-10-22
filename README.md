@@ -217,6 +217,7 @@ File                           Rows   Columns
 transformed_full.csv           14640  17
 transformed_incremental.csv    2000   17
 
-All transformations applied successfully.
-Both datasets are cleaned, enriched, encoded, and ready for analysis.
+
 ```
+
+All transformations are now applied and both datasets are cleaned, enriched, encoded, and ready for analysis.
