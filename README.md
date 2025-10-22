@@ -1,4 +1,4 @@
-# ETL Exam Project – Airline Tweets Analysis
+# Data Mining and Warehousing Mid Semester Project – Airline Tweets Analysis
 
 ## 1. Project Overview
 This project demonstrates the **Extract (E)** and **Transform (T)** phases of the ETL (Extract, Transform, Load) process using the **Airline Tweets dataset** pulled from Kaggle, which contains customer feedback directed at major U.S. airlines on Twitter.  
@@ -103,6 +103,8 @@ open and execute: etl_extract.ipynb
 # This step cleans, enriches, and transforms the datasets for analysis.
 open and execute: etl_transform.ipynb
 
+```
+
 # 7. Verify Outputs
 # Ensure the following files are generated and saved correctly:
 # ├── data/
@@ -165,6 +167,7 @@ dtype: int64
 Raw dataset duplicate records: 36
 Incremental dataset duplicate records: 36
 
+```
 
 
 ### **Transform Phase**
@@ -212,3 +215,4 @@ transformed_incremental.csv    2000   17
 
 All transformations applied successfully.
 Both datasets are cleaned, enriched, encoded, and ready for analysis.
+```
