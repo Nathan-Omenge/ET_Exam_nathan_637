@@ -106,14 +106,18 @@ open and execute: etl_transform.ipynb
 ```
 
 # 7. Verify Outputs
-# Ensure the following files are generated and saved correctly:
-# ├── data/
-# │   ├── raw_data.csv
-# │   └── incremental_data.csv
-# ├── transformed/
-# │   ├── transformed_full.csv
-# │   └── transformed_incremental.csv
+ Ensure the following files are generated and saved correctly:
 
+```bash
+
+ ├── data/
+ │   ├── raw_data.csv
+ │   └── incremental_data.csv
+ ├── transformed/
+ │   ├── transformed_full.csv
+ │   └── transformed_incremental.csv
+
+```
 
 ## 6. Sample Outputs 
 
